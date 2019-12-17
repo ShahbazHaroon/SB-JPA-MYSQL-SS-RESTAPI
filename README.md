@@ -1,4 +1,5 @@
 # SB-JPA-MYSQL-SS-RESTAPI
+
 <p>CRUD Project for Spring Boot, Spring Data JPA, MySQL and Spring Security - (REST API)</p>
 
 <table>
